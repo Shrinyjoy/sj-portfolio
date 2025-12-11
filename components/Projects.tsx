@@ -43,7 +43,7 @@ const projects: Project[] = [
     name: "Portfolio Website",
     description: "Personal portfolio website showcasing projects and skills with modern design",
     technologies: ["React", "Next.js", "Portfolio"],
-    demo: "https://sjportfolio.vercel.app/",
+    demo: "https://sjportfolio-swart.vercel.app/",
   },
   {
     name: "Quiz App",
